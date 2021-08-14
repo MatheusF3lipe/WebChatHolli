@@ -1,0 +1,25 @@
+{
+  "name": "WebChatHolli",
+  "version": "1.0.0",
+  "description": "Olá esse repositório tem a finalidade de expor meus estudos com node JS e com express. O projeto escolhido da vez e o WebChat da rocketseat.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusF3lipe/WebChatHolli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatheusF3lipe/WebChatHolli/issues"
+  },
+  "homepage": "https://github.com/MatheusF3lipe/WebChatHolli#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "socket.io": "^4.1.3"
+  }
+}
